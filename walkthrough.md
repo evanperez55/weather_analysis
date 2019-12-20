@@ -8,22 +8,4 @@
 6. After I had the moving averages for both temperatures I selected the city, year, Milwaukee, and Global columns and inserted a line graph.
 7. I then added a suiting title as well as labeled the horizontal and vertical axes appropriately.
 
-*Please see next page for the Line Graph as well as the Observations
-
-
-
-
-
-
-
-
-## Observations
-1. Milwaukee’s moving average temperature on average was 1.8 degrees warmer than the global moving average temperature.
-2. The changes in Milwaukee’s temperature tends to spike and drop much more than the global temperature, especially between 1850-2000 where the global temperature gradually rises.
-3. When looking at both of the temperatures it would seem that the temperature is climbing overall when looking at Milwaukee or globally.
-4. When looking for a correlation and possible relationship between the Milwaukee temperature as well as the global the two trends had a Correlation Coefficient of 0.90 which means there is a strong positive correlation between the two trends.
-
-
-
-
-
+*Please see Issues Page for Observations along with Line Graph
