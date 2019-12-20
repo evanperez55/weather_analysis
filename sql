@@ -5,3 +5,24 @@ JOIN global_data AS gd
 WHERE cd.city LIKE 'Milwaukee'
 ORDER BY cd.year ASC
 
+
+
+
+## Database Schema
+
+
+### City_data
+year:
+city:
+country:
+avg_temp
+
+### City_list
+city:
+country
+
+### Global_data
+year:
+avg_temp
+
+
