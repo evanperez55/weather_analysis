@@ -8,21 +8,16 @@ ORDER BY cd.year ASC
 
 
 
-## Database Schema
+Database Table Schema
 
 
-### City_data
-year:
-city:
-country:
-avg_temp
+City_data
+year:city:country:avg_temp
 
-### City_list
-city:
-country
+City_list
+city:country
 
-### Global_data
-year:
-avg_temp
+Global_data
+year:avg_temp
 
 
