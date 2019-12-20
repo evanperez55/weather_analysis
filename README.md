@@ -26,20 +26,4 @@
 
 
 
-## Database Schema
-
-
-### City_data
-year
-city
-country
-avg_temp
-
-### City_list
-city
-country
-
-### Global_data
-year
-avg_temp
 
